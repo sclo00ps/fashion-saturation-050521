@@ -23,7 +23,7 @@ background-color: blue;
 
  /*define image size and center*/
 img {
-    width: 20%;
+    width: 35%;
     margin: auto;
     display: block;
  }
@@ -67,13 +67,13 @@ input[type=text], select, textarea {
 
 
 /* Define footer */
-.footer {
+footer {
     position:fixed;
     left: 0;
     bottom: 0; 
     width: 100%;
     background-color: blue;
-    color: yellowgreen;
+    color: yellow;
     font-family: 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
     font-size: 15px;
