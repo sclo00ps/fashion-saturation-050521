@@ -4,30 +4,37 @@ header {
     color:blue;
     background-color: orangered;
     font-family: 'Lucida Sans', Arial, sans-serif;
-    font-weight: bolder;
-    font-size: 35px;
-    position: fixed;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+    position: relative;
     text-align: center;
     margin: 0 auto;
 }
-
 body 
 
- h1 {
+/*define second header*/
+ h2 {
 text-align: center;
-line-height: 100px;
-color: orange;
+line-height: 40px;
+color:orangered;
 background-color: blue;
  }
 
-
+ /*define image size and center*/
+img {
+    width: 40%;
+    margin: auto;
+    display: block;
+  
+  }
 
 .contact-form {}
 
 button {}
 
-footer {
-    position: fixed;
+.footer {
+   position: fixed;
     left: 0;
     bottom: 0; 
     width: 100%;
@@ -35,6 +42,6 @@ footer {
     color: yellowgreen;
     font-family: 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
-    font-size: 35px;
-    margin: 0 auto;
-}
+    font-size: 15px;
+    
+   }
