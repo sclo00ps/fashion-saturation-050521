@@ -73,7 +73,7 @@ footer {
     bottom: 0; 
     width: 100%;
     background-color: blue;
-    color: yellow;
+    color:yellowgreen;
     font-family: 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
     font-size: 15px;
@@ -83,5 +83,5 @@ footer {
  was the default link color causing conflict*/
 
 footer p a {
-color: yellow;
+color: yellowgreen;
 }
