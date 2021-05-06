@@ -24,7 +24,7 @@ background-color: blue;
  /*define image size and center*/
 img {
     width: 35%;
-    margin: auto;
+    margin: auto; 
     display: block;
  }
 
@@ -68,7 +68,7 @@ input[type=text], select, textarea {
 
 /* Define footer */
 footer {
-    position:fixed;
+    position:absolute;
     left: 0;
     bottom: 0; 
     width: 100%;
@@ -78,4 +78,10 @@ footer {
     font-weight: bolder;
     font-size: 15px;
     text-align: center;
+   }
+/* allows email link to display in footer, yellow
+ was the default link color causing conflict*/
+
+footer p a {
+color: yellow;
 }
