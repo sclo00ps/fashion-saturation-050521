@@ -1,7 +1,7 @@
 
 
     # Title 
-     Fashion Saturation Website
+    Fashion Saturation Website
 
     # Table of Contents
 
@@ -26,10 +26,10 @@
      As a client the landing page must have a contact form, an image, a header and footer.
 
      ## Contribution:
-      Activities attached to classroom topic 01-HTML-Git-CSS.
+     Activities attached to classroom topic 01-HTML-Git-CSS.
 
      ## Tests:
-      Run the index.html file to confirm the acceptance criteria have been met.
+     Run the index.html file to confirm the acceptance criteria have been met.
 
      ## Credits:
      None at this time.
@@ -44,10 +44,10 @@
      ## Questions:
         The link below will take you to my Github Profile for additional details:
 
-       <a href ="https://github.com/sclo00ps">GitHub</a><br>
+       <"https://github.com/sclo00ps">.
 
     
         If there are any additional questions, plse contact me at:  
-        <a href = "mailto: louginescott@gmail.com">louginescott@gmail.com</a><br>
+       <louginescott@gmail.com>.
 
     
